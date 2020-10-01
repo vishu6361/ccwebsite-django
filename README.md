@@ -15,3 +15,8 @@
 <li>psycopg2</li>
 </ul>
 
+## The people who contributed to the project were
+Ankit Sangwan
+Vishwajeet Kumar
+Kshitij Shrivastav
+
